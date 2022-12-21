@@ -41,10 +41,10 @@
 ## My Original Character "Yantan"
 
 <p>
-<img src="/Myicon/Icon10.JPG">
-<img src="/Myicon/Icon11.JPG">
-<img src="/Myicon/Icon13.JPG">
-<img src="/Myicon/Icon15.JPG">
+<img src="/Myicon/Icon10.JPG" width="30%">
+<img src="/Myicon/Icon11.JPG" width="30%">
+<img src="/Myicon/Icon13.JPG" width="30%">
+<img src="/Myicon/Icon15.JPG" width="30%">
 </p>
 ### Contact Me
 
