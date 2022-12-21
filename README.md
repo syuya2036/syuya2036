@@ -21,8 +21,9 @@
 
 ## My Original Character "Yantan"
 
-![Myicon](./Myicon/Icon10.JPG)![Myicon](./Myicon/Icon11.JPG)![Myicon](./Myicon/Icon14.JPG)
-
+<p>
+<img src="/Myicon/Icon10.JPG">
+</p>
 ### Contact Me
 
 goto@imanect.com
