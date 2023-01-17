@@ -1,7 +1,4 @@
 # Hello World!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syuya2036)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syuya2036&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About syuya2036
 
 - I'm sutdent of National Institute of Technology, Ichinoseki College.
@@ -46,6 +43,7 @@
 <img src="/Myicon/Icon13.JPG" width="30%">
 <img src="/Myicon/Icon15.JPG" width="30%">
 </p>
+
 ### Contact Me
 
 goto@imanect.com
