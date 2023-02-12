@@ -6,21 +6,25 @@
 
 ## Skill
 
+Mainly machine learning and backend.
+
 - Julia
+- Go
 - Python(sklearn,pytorch,pytorch geometric)
 - HTML/CSS
 - C#
 - C/C++
+- SQL
 
 <p>
 <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
+<img src="https://img.shields.io/badge/-Go-ffffff.svg?logo=go&style=plastic">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 <img src="https://img.shields.io/badge/-PyTorch-FFF.svg?logo=Pytorch&style=plastic">
 <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-</p><p>
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
@@ -35,7 +39,7 @@
 <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
 </p>
 
-## My Original Character "Yantan"
+## My Original Character called "Yantan"
 
 <p>
 <img src="/Myicon/Icon10.JPG" width="30%">
