@@ -33,6 +33,7 @@ Mainly machine learning and backend.
 
 ## Learning
 
+- TypeScript
 - React.js
 
 <p>
