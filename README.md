@@ -61,7 +61,6 @@
 ### Infrastructure
   - Docker
   - Linux
-  - 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=docker,linux" />
 </a>
@@ -75,6 +74,7 @@
 </a>
 
 ### Others
+  - gPRC
   - C#/.Net
   - CodePen
   - LaTex
