@@ -3,6 +3,7 @@
 
 - I'm sutdent of National Institute of Technology, Ichinoseki College.
 - I'm a technical representative for an organization called [Imanect](https://imanect.com).
+- MLOpsエンジニアを目指す一関の高専生。
 
 ## Skill
 
