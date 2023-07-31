@@ -86,13 +86,15 @@
 ## Learning
 
 - Kubernetes
+- Terraform
 - AWS
 - GCP
+- Firebase
 - Redis
 - Three.js
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=rust,kubernetes,aws,gcp,redis,threejs" />
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,gcp,firebase,redis,threejs" />
 </a>
 
 ## My Original Character called "Yantan"
