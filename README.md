@@ -6,47 +6,102 @@
 
 ## Skill
 
-Mainly machine learning and backend.
+### Go
+  - Gin
 
-- Julia
-- Go
-- Python(sklearn,pytorch,pytorch geometric)
-- HTML/CSS
-- C#
-- C/C++
-- SQL
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=go" />
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
-<img src="https://img.shields.io/badge/-Go-ffffff.svg?logo=go&style=plastic">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-PyTorch-FFF.svg?logo=Pytorch&style=plastic">
-<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
-<img src="https://img.shields.io/badge/-Julia-FFF.svg?logo=julia&style=plastic">
-</p>
+### Python
+  - ML(sklearn, pytorch, pytorch geometric pycaret, pd, np, plt, sns...)
+  - BackEnd(Django, Django REST framework, Flask)
+ 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,pytorch,django,flask" />
+</a>
+
+### Rust
+  - Tauri
+  - Axum
+ 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=rust,tauri" />
+</a>
+
+### TypeScript(JavaScript)
+  - React
+  - Next.js
+  - Angular
+  - Node.js
+  - Vite
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,vite" />
+</a>
+
+### CSS
+  - TailwindCSS
+  - Material UI
+  - Chakra UI
+ 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tailwind,materialui" />
+</a>
+
+### DataBase
+  - MongoDB
+  - MySQL
+  - PostgreSQL
+  - SQLite3
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+</a>
+
+### Infrastructure
+  - Docker
+  - Linux
+  - 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+</a>
+
+### Microcomputer
+  - Arduino
+  - RaspberryPi
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</a>
+
+### Others
+  - C#/.Net
+  - CodePen
+  - LaTex
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,codepen,latex" />
+</a>
 
 ## Learning
 
-- TypeScript
-- React.js
+- Kubernetes
+- AWS
+- GCP
+- Redis
+- Three.js
 
-<p>
-<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
-</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=rust,kubernetes,aws,gcp,redis,threejs" />
+</a>
 
 ## My Original Character called "Yantan"
 
 <p>
-<img src="/Myicon/Icon10.JPG" width="30%">
-<img src="/Myicon/Icon11.JPG" width="30%">
-<img src="/Myicon/Icon13.JPG" width="30%">
-<img src="/Myicon/Icon15.JPG" width="30%">
+<img src="/Myicon/Icon10.JPG" width="24%">
+<img src="/Myicon/Icon11.JPG" width="24%">
+<img src="/Myicon/Icon13.JPG" width="24%">
+<img src="/Myicon/Icon15.JPG" width="24%">
 </p>
 
 ### Contact Me
