@@ -2,9 +2,13 @@
 ## About syuya2036
 
 - I'm sutdent of National Institute of Technology, Ichinoseki College.
-- I'm a technical representative for an organization called [Imanect](https://imanect.com).
-- MLOpsエンジニアを目指す一関の高専生。
-
+- DevOps/MLOpsエンジニアを目指す一関の高専生。
+- I am a contributor to the following organizations.
+  - [Conea](https://github.com/conea0)
+    自社開発系ITベンチャー
+  - [PicoCMS-Z](https://github.com/PicoCMS-Z)
+    APIベースでヘッドレスCMSを作るOSSプロジェクト
+  
 ## Skill
 
 ### Go
