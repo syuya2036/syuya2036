@@ -79,7 +79,7 @@
 </a>
 
 ### Others
-  - gPRC
+  - gRPC
   - C#/.Net
   - CodePen
   - LaTex
