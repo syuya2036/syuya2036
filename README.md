@@ -108,7 +108,7 @@
 
 ### Contact Me
 
-goto@imanect.com
+shuya@yantan.dev
 
 <!--
 **syuya2036/syuya2036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
