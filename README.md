@@ -39,64 +39,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,vite" />
 </a>
 
-### CSS
-  - TailwindCSS
-  - Material UI
-  - Chakra UI
- 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tailwind,materialui" />
-</a>
-
-### DataBase
-  - MongoDB
-  - MySQL
-  - PostgreSQL
-  - SQLite3
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
-</a>
-
-### Infrastructure
-  - Docker
-  - Linux
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,linux" />
-</a>
-
-### Microcomputer
-  - Arduino
-  - RaspberryPi
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</a>
-
-### Others
-  - gRPC
-  - C#/.Net
-  - CodePen
-  - LaTex
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,codepen,latex" />
-</a>
-
-## Learning
-
-- Kubernetes
-- Terraform
-- AWS
-- GCP
-- Firebase
-- Redis
-- Three.js
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,gcp,firebase,redis,threejs" />
-</a>
-
 ## My Original Character called "Yantan"
 
 <p>
