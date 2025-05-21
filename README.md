@@ -1,8 +1,8 @@
 # Hello World!
 ## About syuya2036
 
-- I'm sutdent of National Institute of Technology, Ichinoseki College.
-- DevOps/MLOpsエンジニアを目指す一関の高専生
+- 新潟大学 理学部 理学科 数学プログラム
+- 元高専生
   
 ## Skill
 
