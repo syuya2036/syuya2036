@@ -1,23 +1,6 @@
 # Hello World!
 ## About syuya2036
 
-- 元情報系高専生
-- 新潟大学 理学部 理学科 数学プログラム
- 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=rust,tauri" />
-</a>
-
-### TypeScript(JavaScript)
-  - React
-  - Next.js
-  - Angular
-  - Node.js
-  - Vite
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,vite" />
-</a>
-
 ## My Original Character called "Yantan"
 
 <p>
