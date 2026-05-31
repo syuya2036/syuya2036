@@ -3,27 +3,6 @@
 
 - 元情報系高専生
 - 新潟大学 理学部 理学科 数学プログラム
-
-## Skill
-
-### Go
-  - Gin
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=go" />
-</a>
-
-### Python
-  - ML(sklearn, pytorch, pytorch geometric pycaret, pd, np, plt, sns...)
-  - BackEnd(Django, Django REST framework, Flask)
- 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,pytorch,django,flask" />
-</a>
-
-### Rust
-  - Tauri
-  - Axum
  
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=rust,tauri" />
